@@ -1,0 +1,5 @@
+cluster_name: es-cluster
+nodes: 10
+masters: 3
+master_port: 9200
+network_name: elasticsearch
